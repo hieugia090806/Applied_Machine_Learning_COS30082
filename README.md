@@ -18,12 +18,12 @@ In terms of maintaining clean code integration and avoid merge conflicts, our re
 
 > 💡 **Workflow Note:** All feature branches (`backend-core`, `frontend-gui`, or custom feature branches) must be created from `develop` and merged back via Pull Requests (PRs).
 
-## 📂 Folder Structure:
+```text
 Applied_Machine_Learning_COS30082/
-│
 ├── 📁 Documents/         # Lecture notes, assignment specs, and references
 ├── 📁 Modules/           # Weekly labs, exercises, and practice code
 ├── 📁 Project/           # Main project work
 │   ├── 📁 Architecture/  # System architecture diagrams and technical spec assets
 │   └── 📁 Document/      # Project Proposal, Agile Charter, and Technical Specifications
 └── 📄 README.md          # Project documentation and overview
+```
